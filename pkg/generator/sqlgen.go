@@ -4,6 +4,6 @@ package generator
 type SQLQueryGenerator struct{}
 
 // Generate generates SQL query from workflow specification.
-func (compiler *SQLQueryGenerator) Generate(workflowString string, opts ...interface{}) (string, error) {
+func (generator *SQLQueryGenerator) Generate(workflowString string, opts ...interface{}) (string, error) {
 	return "", nil
 }
