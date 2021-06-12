@@ -1,0 +1,8 @@
+{
+  "name": "gigamono-query-generator",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/gigamono/gigamono-query-generator",
+  "author": "Stephen <appcypher@outlook.com>",
+  "license": "GPLv3.0"
+}
