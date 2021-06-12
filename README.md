@@ -4,7 +4,7 @@
     </a>
 </div>
 
-<h1 align="center">GIGAMONO QUERY COMPILER</h1>
+<h1 align="center">GIGAMONO QUERY GENERATOR</h1>
 
 <p align="center">
 :warning:  This project is experimental and in active development  :warning:
